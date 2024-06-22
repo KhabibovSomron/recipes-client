@@ -1,0 +1,9 @@
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.links {
+    text-decoration: none;
+    margin: 20px;
+}

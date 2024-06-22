@@ -1,0 +1,20 @@
+.crud {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.inputs {
+    width: 100%;
+}
+
+.add_button {
+    width: 100%;
+}
+
+.crud img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
